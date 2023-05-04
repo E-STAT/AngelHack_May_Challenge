@@ -16,19 +16,22 @@ floor ='''
 
 
 def count_floor(floor_mov: str):
+    """Calculate John's current floor based on a string of floor movement.
 
-    '''
-    Function to count John's current floor
+    Args:
+        floor_mov (str): A string representing John's floor movements, with
+        '<' representing a move down one floor and '>' representing a move up
+        one floor.
 
-    floor_mov: str that contains information about the steps
-    '''
+    Returns:
+        int: John's current floor after following the movements in `floor_mov`.
+    """
     step = 0
 
     for f in floor_mov:
-
         if f == '<':
             step += 1
-        if f == ">":
+        if f == '>':
             step -= 1
 
     return step
