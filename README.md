@@ -27,4 +27,6 @@
 
 * **Answer**
 
+![image](https://user-images.githubusercontent.com/54026058/236300882-84ee1cce-02e9-4dad-91b0-b7119f411689.png)
+
     John is on the 56th floor
