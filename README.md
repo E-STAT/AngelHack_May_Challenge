@@ -84,7 +84,6 @@
 
 * **Answer**
 
-
-    
+![image](https://user-images.githubusercontent.com/54026058/236897264-0ac49c6b-cecb-4bbf-848b-1247824c3907.png)
     
 The Average of the smallest and largest permutation that is divisible by 7 is: 5152.0
