@@ -73,6 +73,7 @@
 # Third Challenge
 
 * **Question**
+    
     Given an integer string, create all integer permutations of its digits. Determine if there is a
     permutation whose integer value is evenly divisible by 7, i.e. (permutation value) mod 7 = 0.
     For example, the possible permutations of 789 are p = {789, 798, 879, 897, 978, 987}. Of
