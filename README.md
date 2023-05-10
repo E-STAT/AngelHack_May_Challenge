@@ -130,6 +130,8 @@ The Average of the smallest and largest permutation that is divisible by 7 is: 5
 
 * **Solution**
 
+![image](https://github.com/E-STAT/AngelHack_May_Challenge/assets/54026058/51e86f8d-c0e3-4d4f-9b21-f683f1f5b4e5)
+
 
 
 The minimum cost is 475
