@@ -201,6 +201,8 @@ The minimum cost is 475
 
 * **Solution**
 
+![image](https://github.com/E-STAT/AngelHack_May_Challenge/assets/54026058/3f33950e-00c6-480b-9587-940910892c65)
+
 
 The decoded string is:
      **'i love angelhack code challenge because it is fun and exciting and i dislike the word yab that appears in the phrase'**
