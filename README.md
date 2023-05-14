@@ -238,6 +238,7 @@ The decoded string is:
 
 * **Solution**
 
-Image here
+![image](https://github.com/E-STAT/AngelHack_May_Challenge/assets/54026058/dbf5c11e-cbd9-49a9-9d37-6614cb5e1597)
 
-    The minimum number of steps required is **92**
+
+The minimum number of steps required is **92**
