@@ -59,7 +59,7 @@ def disconnect_nodes(nodes):
 
 
 # Example usage
-s = 'aaaaacaaaa'
+s = 'kjslaqpwoereeeeewwwefifjdksjdfhjdksdjfkdfdlddkjdjfjfjfjjjjfjffnefhkjgefkgjefkjgkefjekihutrieruhigtefhgbjkkkknbmssdsdsfdvneurghiueor'
 print(f"Initial nodes: {s}\n")
 steps = disconnect_nodes(s)
 print(f"Total steps taken: {steps}")
