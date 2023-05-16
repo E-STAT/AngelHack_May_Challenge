@@ -334,5 +334,7 @@ What is the lifeform score for the first layout that appears twice?
 
 * **Solution**
 
+![image](https://github.com/E-STAT/AngelHack_May_Challenge/assets/54026058/9c4ccc22-6401-49c4-a0a5-272e8bdcdd45)
 
-    Lifeform score is: 32509983
+
+Lifeform score is: 32509983
